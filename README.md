@@ -1,4 +1,4 @@
-onsetsu
+Onsetsu
 =======
 
-Onsetsu Prototype
+A prototype of Onsetsu in fashion of Duel Network (not automated)
