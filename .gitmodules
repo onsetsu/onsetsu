@@ -1,0 +1,3 @@
+[submodule "src/bloob"]
+	path = src/bloob
+	url = https://github.com/onsetsu/bloob.git
